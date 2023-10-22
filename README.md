@@ -1,6 +1,6 @@
 This project involved designing and building a bandpass filter circuit, to isolate a single component frequency of different types of wave. 
 This was a really fun project, as it combined a whole bunch of skills we'd developed that year; circuit design in LTSpice, data manipulation in Excel, and Fourier analysis of different periodic waveforms.
-Some interesting additions I added were using Python to help pick appropriate components for the circuit, based on mandated minimums or maximums of different performance metrics. This can be seen in RCValues.py
+Some interesting features I added were using Python to help pick appropriate components for the circuit, based on mandated minimums or maximums of different performance metrics. This can be seen in RCValues.py
 I also created a LabVIEW utility to automatically identify appropriate timesteps for labelling the FFT data.
 
 The report got a mark of 18/20 with the following feedback:
